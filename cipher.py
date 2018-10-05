@@ -1,3 +1,6 @@
+# Exercise 1: Simple Substitution Cipher
+
+
 def encrypt(string, shift):
 
     cipher = ''
